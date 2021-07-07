@@ -72,4 +72,4 @@ Open http://localhost:3000 using web browser
   - Created using the latest technology stack `MongoDB ExpressJS VueJS NodeJS (MEVN)`
   - Auto generate minified files for deployment to production server
   - Modular Emails with integrated templating feature
-  - Multilingual support
+  - Multilingual support# vuefull
