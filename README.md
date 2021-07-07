@@ -73,3 +73,4 @@ Open http://localhost:3000 using web browser
   - Auto generate minified files for deployment to production server
   - Modular Emails with integrated templating feature
   - Multilingual support# vuefull
+# vuefull
